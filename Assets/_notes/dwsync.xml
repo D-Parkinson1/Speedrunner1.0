@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Player.png" server="ftp.kenmoreshs.eq.edu.au" local="131182770904982909" remote="131217394200000000" Dst="0" />
+<file name="Coin.png" server="ftp.kenmoreshs.eq.edu.au" local="131182893681202441" remote="131217394200000000" Dst="0" />
+<file name="Button.png" server="ftp.kenmoreshs.eq.edu.au" local="131187351831243644" remote="131217394200000000" Dst="0" />
+<file name="Door.png" server="ftp.kenmoreshs.eq.edu.au" local="131185557774609254" remote="131217394200000000" Dst="0" />
+<file name="Enemy.png" server="ftp.kenmoreshs.eq.edu.au" local="131196888111746533" remote="131217394200000000" Dst="0" />
+<file name="Flying_Enemy.png" server="ftp.kenmoreshs.eq.edu.au" local="131190883381136126" remote="131217394200000000" Dst="0" />
+<file name="MovingPlatform.png" server="ftp.kenmoreshs.eq.edu.au" local="131194462235864047" remote="131217394200000000" Dst="0" />
+<file name="PreloadBar.png" server="ftp.kenmoreshs.eq.edu.au" local="131185835097053379" remote="131217394200000000" Dst="0" />
+<file name="Spike.png" server="ftp.kenmoreshs.eq.edu.au" local="131207883695786759" remote="131217394800000000" Dst="0" />
+<file name="Clouds.png" server="ftp.kenmoreshs.eq.edu.au" local="131202821983161661" remote="131217394200000000" Dst="0" />
+<file name="SoundButtons.png" server="ftp.kenmoreshs.eq.edu.au" local="131202212416387301" remote="131217394800000000" Dst="0" />
+<file name="Sky.png" server="ftp.kenmoreshs.eq.edu.au" local="131207468066052517" remote="131212381200000000" Dst="0" />
+<file name="GroundTiles.png" server="ftp.kenmoreshs.eq.edu.au" local="131203010919871209" remote="131217394200000000" Dst="0" />
+<file name="Objects.png" server="ftp.kenmoreshs.eq.edu.au" local="131203701085371705" remote="131217394200000000" Dst="0" />
+<file name="Objects.tsx" server="ftp.kenmoreshs.eq.edu.au" local="131206528964999805" remote="131217394200000000" Dst="0" />
+<file name="GroundTiles.tsx" server="ftp.kenmoreshs.eq.edu.au" local="131206528369405739" remote="131217394200000000" Dst="0" />
+<file name="MovingPlatform.tsx" server="ftp.kenmoreshs.eq.edu.au" local="131206530182419437" remote="131217394200000000" Dst="0" />
+<file name="tutorial.json" server="ftp.kenmoreshs.eq.edu.au" local="131217399902835203" remote="131217400800000000" Dst="0" />
+<file name="favicon.ico" server="ftp.kenmoreshs.eq.edu.au" local="131208861290988464" remote="131217394200000000" Dst="0" />
+<file name="Stars.png" server="ftp.kenmoreshs.eq.edu.au" local="131210840822602584" remote="131217394800000000" Dst="0" />
+<file name="Thumbnail.png" server="ftp.kenmoreshs.eq.edu.au" local="131211375480148032" remote="131217394800000000" Dst="0" />
+<file name="Level1.json" server="ftp.kenmoreshs.eq.edu.au" local="131216744752628890" remote="131217394200000000" Dst="0" />
+<file name="Level4.json" server="ftp.kenmoreshs.eq.edu.au" local="131219505710092667" remote="131219962200000000" Dst="0" />
+<file name="Level5.json" server="ftp.kenmoreshs.eq.edu.au" local="131219505347821947" remote="131219962200000000" Dst="0" />
+<file name="Level3.json" server="ftp.kenmoreshs.eq.edu.au" local="131215893687151725" remote="131217394200000000" Dst="0" />
+<file name="Level2.json" server="ftp.kenmoreshs.eq.edu.au" local="131217561454421737" remote="131217561600000000" Dst="0" />
+<file name="getStar.mp3" server="ftp.kenmoreshs.eq.edu.au" local="131218372414075588" remote="131219962200000000" Dst="0" />
+<file name="Level6.json" server="ftp.kenmoreshs.eq.edu.au" local="131219601933066307" remote="131219962200000000" Dst="0" />
+<file name="Level7.json" server="ftp.kenmoreshs.eq.edu.au" local="131220946432854229" remote="131220946200000000" Dst="0" />
+<file name="Level8.json" server="ftp.kenmoreshs.eq.edu.au" local="131219585259672643" remote="131219962200000000" Dst="0" />
+<file name="pauseMenu.png" server="ftp.kenmoreshs.eq.edu.au" local="131219427154199527" remote="131219962200000000" Dst="0" />
+<file name="Level9.json" server="ftp.kenmoreshs.eq.edu.au" local="131219583365614309" remote="131219962200000000" Dst="0" />
+<file name="getStar.ogg" server="ftp.kenmoreshs.eq.edu.au" local="131220283083387468" remote="131223598200000000" Dst="0" />
+</dwsync>
