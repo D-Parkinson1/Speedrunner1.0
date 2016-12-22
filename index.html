@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+  	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!--Support for mobiles-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="mobile-web-app-capable" content="yes" />   
+    
+    <link rel="shortcut icon" href="Assets/favicon.ico" type="image/x-icon"/>
+    <style type='text/css'>
+			body {
+				font-family: 'Faster One', cursive;
+				padding: 0;
+				margin: 0;
+			}
+			.fontPreload {
+				font-family: 'Faster One', cursive;
+				position:absolute;
+				left: -100px;
+			}
+			.fontPreload2 {
+				font-family: 'Stalinist One', cursive;
+				position:absolute;
+				left: -100px;
+			}
+		</style>
+    <!--Google Fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Faster+One|Stalinist+One" rel="stylesheet">  
+    <!--Scripts-->
+    <script type="text/javascript" src="phaser.min.js"></script>
+    <script src = "phaser-state-transition.min.js"></script>
+    <script type="text/javascript" src="Boot.js"></script>
+    <script type="text/javascript" src="Preload.js"></script>
+    <script type="text/javascript" src="MainMenu.js"></script>
+    <script type="text/javascript" src="Help.js"></script>
+    <script type="text/javascript" src="Options.js"></script>
+    <script type="text/javascript" src="LvlSelect.js"></script>
+		<script type="text/javascript" src="Game.js"></script>
+    <title>Speedrunner</title>
+  </head>
+  
+  <body>
+  <div class="fontPreload">.</div>
+  <div class="fontPreload2">.</div>
+  	<script type="text/javascript">
+			window.onload = function() {
+				var game = new Phaser.Game(800,600, Phaser.CANVAS);
+				
+				//Create states
+				game.state.add("Boot", Game.Boot);
+				game.state.add("Preload", Game.Preload);
+				game.state.add("MainMenu", Game.Menu);
+				game.state.add("Help", Game.Help);
+				game.state.add("Options", Game.Options);
+				game.state.add("Game", Game.Play);
+				game.state.add("LvlSelect", Game.Select);
+				//game.state.add("GameOver", Game.GameOver);		
+				//Local Storage Here
+	
+				//Start State
+				game.state.start("Boot");
+			}
+		</script>
+  </body>
+</html>
