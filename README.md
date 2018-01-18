@@ -1,5 +1,5 @@
-# Speedrunner--- A Phaser-Game
-==================================
+# Speedrunner - A Phaser-Game
+---
 
 Speedrunner is a game I made for a school assignment. It was made using the Phaser library.
 
